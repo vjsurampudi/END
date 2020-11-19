@@ -9,5 +9,5 @@ trained on the text that is reversed (for example "my name is Rohan" becomes "Ro
 achieves 87% or more accuracy
 
 <h3>Approaches tried:</h3>
-1. Reduced the default Learning Rate to 0.0001
+1. Reduced the default Learning Rate to 0.0001 <br>
 2. Tried Glove embeddings of 300 dimensions instead of the 100 dimensions orignally used
