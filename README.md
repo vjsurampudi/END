@@ -29,3 +29,51 @@ This repository contains the assignments submitted as a part of END program from
 7. Map, Filter, Zip and List Comprehension
 8. Tuples and Dictionaries and how to unpack them
 9. TimeIt
+
+## Session 4: PyTorch
+1. Introduction to PyTorch
+2. PyTorch vs TensorFlow
+3. Tensors
+4. AutoGrad
+5. Tensors and Numpy
+6. Sharing Memory for Performance
+7. Tensor Indexing
+9. Squeezing and Unsqueezing and other Operations
+10.Writing a NN from scratch in Pytorch:
+
+## Session 5: RNNs are dead and their renewed relevance 1
+1. Sequential Data
+2. Fully Connected Layers
+3. Recurrent Neural Networks
+4. RNN Cells
+5. Vanishing Gradients
+6. Training RNNs
+7. LSTMs
+8. Transitioning from RNNs to LSTMs
+    - The tanh - Squashing Function
+    - Adding Memory to our recursion cells
+    - LSTM Cell
+9. LSTM Core Concepts
+    - Sigmoid Gate
+    - Forget Gate
+    - Input Gate
+    - Cell State
+    - Output Gate
+    
+ ## Session 6: GRUs, Seq2Se2 & Attention Mechanism
+1. RNN/LSTM Recap
+    - TanH - Squashing Function
+    - Sigmoid - Selection Gate
+2. LSTMs
+    - LSTM Internals
+3. LSTM Variants
+4. GRU
+5. Encoder=Decoder Architecture in RNN/LSTMs
+6. RNN/LSTM with an Attention Mechanism
+    - The Context Vector
+    - Computing Attention Weights and Context Vectors
+
+## Session 7: Handson - I
+## Session 8: Handson - II
+## Session 9: Handson - III
+ 
