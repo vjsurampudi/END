@@ -29,4 +29,4 @@ Loss Function
 -------------
 Here we have used the cross-entropy loss function. We have not tried any other loss function. The goodness of the result (i.e. python code prediction from the transformer) is given using the perplexity. Though there are other measures like BLEU score, ROUGE etc which can probably provide a better insight on the prediction.
 
-Some of the example outputs are given in the file at this link <Link>
+Some of the example outputs are given in the file at this link https://github.com/vjsurampudi/END/blob/main/Session14/SampleResults.txt
