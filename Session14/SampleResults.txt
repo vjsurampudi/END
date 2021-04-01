@@ -1,0 +1,108 @@
+Enter the Question:Python program to find the sum of two numbers
+Answer ----->:
+ num1 = <unk> 
+ num2 = <unk> 
+ sum = num1 + num2 
+ print ( f ' S u m :   { s u m } ' )
+
+Enter the Question:Python program to find the sum of n natural numbers
+Answer ----->:
+ num = <unk> 
+ if num < 0 : 
+     print ( " E n t e r   a   p o s i t i v e   n u m b e r " ) 
+ else : 
+     sum = 0 
+ <unk> 
+ while ( num > 0 ) : 
+         sum += num 
+ num -= 1 
+ print ( " T h e   s u m   i s " , sum ) 
+
+Enter the Question:python program to find the lcm
+Answer ----->:
+ def compute_lcm ( x , y ) : 
+     if x > y : 
+         greater = x 
+ else : 
+         greater = y 
+ 
+ while ( True ) : 
+         if ( ( greater % x == 0 ) and ( greater % y == 0 ) ) : 
+             lcm = greater 
+ break 
+ greater += 1 
+ 
+ return lcm 
+
+Enter the Question:Write a program to print the multiplication table of a given number
+Answer ----->:
+ num = <unk> 
+ for i in range ( 1 , 11 ) : 
+     print ( num , ' x ' , i , ' = ' = ' , num * i )
+
+Enter the Question:Write a program to to print the contents of a given file
+Answer ----->:
+ 
+ a = str ( input ( " E n t e r   f i l e n a m e :   " ) ) 
+ file2 = open ( a , ' r ' ) 
+ line = file2 . <unk> ( ) 
+ while ( line != file2 . <unk> ( ) : 
+      line = file2 . <unk> ( ) 
+ file2 . close ( ) 
+
+Enter the Question:python function to find the perimeter of a square
+Answer ----->:
+ def <unk> ( a ) : 
+      return 4 * a
+
+Enter the Question:write a python function to find the n number in an arithematic progression
+Answer ----->:
+ 
+ def <unk> ( arr , n ) : 
+      if n >= 0 : 
+          return n * ( n - 1 ) / 2 
+ else : 
+          return None 
+
+Enter the Question:python program to swap two number
+Answer ----->:
+ x = 5 
+ y = 10 
+ 
+ temp = x 
+ x 
+ y = temp 
+ print ( ' T h e   v a l u e   o f   x   a f t e r   s w a p p i n g :   { } ' . format ( x ) ) 
+ print ( ' T h e   v a l u e   o f   x   a f t e r   s w a p p p i n g :   { x } ' . format ( y ) ) 
+ print ( ' T h e   v a l u e   o f t e r   o f t e r   s w a p p p p i n g :   { x } ' . format ( y ) ) 
+ print ( y ) 
+
+Enter the Question:python function to read a file
+Answer ----->:
+ def <unk> ( filename ) : 
+      import hashlib 
+ with open ( filename , ' r ' ) as f : 
+          for line in open ( filename , ' r ' ) : 
+              <unk> = line + line . read ( ) 
+ <unk> ( )
+
+Enter the Question:python function to find the factorial
+Answer ----->:
+ def factorial ( n ) : 
+      if n < 1 : 
+          return 1 
+ else : 
+          return n * factorial ( n - 1 )
+
+Enter the Question:python function to check whether the given string is a palindrome
+Answer ----->:
+ 
+ def isPalindrome ( s ) : 
+      return s == s [ : : - 1 ]
+
+Enter the Question:python function to split a string
+Answer ----->:
+ s = " H e l l o   w o r l d " 
+ print ( s . split ( '   ' ) ) 
+
+
